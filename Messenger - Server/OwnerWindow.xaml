@@ -1,0 +1,33 @@
+﻿<Window x:Class="Messenger___Server.OwnerWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Messenger___Server"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Background="#222222"
+        Title="ВКонтакте | (Чат)" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.6*"/>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Пользователи:" Grid.Column="0" Grid.Row="0" FontSize="16" Foreground="White" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button x:Name="logChatBtn" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="0" Content="Посмотреть логи чата" IsDefault="True" Background="#FFCCCCCC" BorderBrush="#FFCCCCCC" Click="logChatBtn_Click"/>
+        <ListBox x:Name="userLbx" Grid.Column="0" Grid.Row="1" Grid.RowSpan="2"/>
+        <ListBox x:Name="messageChatLbx" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="1" Foreground="White"/>
+        <Button x:Name="exitBtn" Content="Выйти" Grid.Column="1" Grid.Row="2" Background="#FFCCCCCC" BorderBrush="#FFCCCCCC" Foreground="Black" Click="exitBtn_Click"/>
+        <TextBox x:Name="inputMessageTbx" Grid.Column="2" Grid.Row="2"
+                 AcceptsReturn="True" TextWrapping="Wrap" Opacity="0.8" materialDesign:HintAssist.Hint="Написать сообщение..." materialDesign:TextFieldAssist.HasClearButton="True" Foreground="White" VerticalAlignment="Center"/>
+        <Button x:Name="sendBtn" Content="Отправить" Grid.Column="3" Grid.Row="2" Background="#FFCCCCCC" BorderBrush="#FFCCCCCC" Foreground="Black" Click="sendBtn_Click"/>
+    </Grid>
+</Window>

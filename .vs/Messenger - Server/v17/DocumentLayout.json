@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|c:\\users\\yaney\\source\\repos\\messenger - server\\messenger - server\\logwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|solutionrelative:messenger - server\\logwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|c:\\users\\yaney\\source\\repos\\messenger - server\\messenger - server\\ownerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|solutionrelative:messenger - server\\ownerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|c:\\users\\yaney\\source\\repos\\messenger - server\\messenger - server\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|solutionrelative:messenger - server\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|c:\\users\\yaney\\source\\repos\\messenger - server\\messenger - server\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|solutionrelative:messenger - server\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|c:\\users\\yaney\\source\\repos\\messenger - server\\messenger - server\\logwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|solutionrelative:messenger - server\\logwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|c:\\users\\yaney\\source\\repos\\messenger - server\\messenger - server\\ownerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|solutionrelative:messenger - server\\ownerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|c:\\users\\yaney\\source\\repos\\messenger - server\\messenger - server\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08486548-863B-4183-835B-07FC645D67EA}|Messenger - Server\\Messenger - Server.csproj|solutionrelative:messenger - server\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\LogWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Messenger - Server\\LogWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\LogWindow.xaml.cs",
+              "RelativeToolTip": "Messenger - Server\\LogWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:52:42.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\LogWindow.xaml",
+              "RelativeDocumentMoniker": "Messenger - Server\\LogWindow.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\LogWindow.xaml",
+              "RelativeToolTip": "Messenger - Server\\LogWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T06:46:52.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TcpServer.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\TcpServer.cs",
+              "RelativeDocumentMoniker": "Messenger - Server\\TcpServer.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\TcpServer.cs",
+              "RelativeToolTip": "Messenger - Server\\TcpServer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:46:38.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OwnerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\OwnerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Messenger - Server\\OwnerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\OwnerWindow.xaml.cs",
+              "RelativeToolTip": "Messenger - Server\\OwnerWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAzwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:46:23.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OwnerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\OwnerWindow.xaml",
+              "RelativeDocumentMoniker": "Messenger - Server\\OwnerWindow.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\OwnerWindow.xaml",
+              "RelativeToolTip": "Messenger - Server\\OwnerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T06:46:10.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Messenger - Server\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Messenger - Server\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:45:57.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Messenger - Server\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\MainWindow.xaml",
+              "RelativeToolTip": "Messenger - Server\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T06:45:43.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

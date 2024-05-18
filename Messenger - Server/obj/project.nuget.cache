@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBLJpGRLOKjnnV6KTmOgpit6qYcaoUiEGBzTSC+N2am9xhxmB5bZxXwb0PgtkmG1IfNlyNz15uB1FVIda6qNNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yaney\\source\\repos\\Messenger - Server\\Messenger - Server\\Messenger - Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yaney\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\yaney\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\yaney\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

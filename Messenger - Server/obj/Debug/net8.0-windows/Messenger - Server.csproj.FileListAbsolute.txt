@@ -1,0 +1,30 @@
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\bin\Debug\net8.0-windows\Messenger - Server.exe
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\bin\Debug\net8.0-windows\Messenger - Server.deps.json
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\bin\Debug\net8.0-windows\Messenger - Server.runtimeconfig.json
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\bin\Debug\net8.0-windows\Messenger - Server.dll
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\bin\Debug\net8.0-windows\Messenger - Server.pdb
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server.csproj.AssemblyReference.cache
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server_MarkupCompile.cache
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server_MarkupCompile.lref
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\App.baml
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server.g.resources
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server.AssemblyInfoInputs.cache
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server.AssemblyInfo.cs
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenge.80DC084C.Up2Date
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server.dll
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\refint\Messenger - Server.dll
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server.pdb
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\Messenger - Server.genruntimeconfig.cache
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\ref\Messenger - Server.dll
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\OwnerWindow.g.cs
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\OwnerWindow.baml
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\LogWindow.g.cs
+C:\Users\yaney\source\repos\Messenger - Server\Messenger - Server\obj\Debug\net8.0-windows\LogWindow.baml
